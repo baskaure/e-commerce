@@ -43,10 +43,9 @@ data-analysis-project
 
 ## Usage Guidelines
 
-- Use the `exploratory.ipynb` notebook for initial data exploration and visualizations.
+
 - Use the `final_analysis.ipynb` notebook for detailed analysis and summary statistics.
-- Utilize the functions in `data_loader.py` to load your CSV files and `visualizations.py` for creating plots.
+- Utilize the functions in `data_loader.py` to load your CSV files
 
 ## License
 
-This project is licensed under the MIT License.
